@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+fer
+opencv-python
+pillow
+librosa
+soundfile
+numpy
+pandas
+plotly
